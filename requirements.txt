@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+matplotlib
+seaborn
+notebook
+ipykernel
+
+# Data Engineering / Processing
+openpyxl        
+pyarrow          
+scikit-learn     
+
+# Geospatial 
+geopandas
+shapely
+fiona
+
+# Machine Learning
+xgboost
+lightgbm
+
+# Experiment Tracking 
+mlflow
+
+# EDA Helpers 
+missingno
+pandas-profiling
