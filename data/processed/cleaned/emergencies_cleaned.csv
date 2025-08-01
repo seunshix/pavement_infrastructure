@@ -1,0 +1,581 @@
+order_id,date_declared,year,state_federal_code,origin_office,incident_description,declaration_type,county
+1997-030,1997-10-08,1997,S,Johnson,"Disaster in the County of Socorro, as a result in flash flooding conditions along the Rio Grande.",Flash Flooding,Socorro
+1997-010,1997-05-14,1997,S,Johnson,Disaster for flooding in Rio Arriba County as a result from melting snow has resulted in flooding.,Flooding,Rio Arriba
+1997-023,1997-08-18,1997,S,Johnson,"Disaster in Mora County in resulting in heavy damage to road, bridges and publicly owned facilities.",Flooding,Mora
+1997-032,1997-11-05,1997,S,Johnson,"Disaster in the Pecos River in Guadalupe County, as a resulted in flash flood conditions.",Flooding,Guadalupe
+1997-033,1997-11-05,1997,S,Johnson,"Disaster in Grant County, as a result in flooding of heavy rainfall.",Flooding,Grant
+1997-034,1997-11-10,1997,S,Johnson,"Disaster in San Miguel County, as a result in flooding of heavy rainfall.",Flooding,San Miguel
+1997-009,1997-05-05,1997,S,Johnson,Disaster for Mora County as a result of heavy flooding.,Flooding,Mora
+1997-026,1997-09-10,1997,S,Johnson,Disaster in Santa Fe County Road 91A in result in heavy flood damage.,Flooding,Santa Fe
+1997-012,1997-06-02,1997,S,Johnson,Disaster in thirteen counties as result to heavy snowfall.,Heavy Snowfall,Statewide
+1997-039,1997-12-29,1997,S,Johnson,"Disaster in Chaves County and other surrounding areas, resulting in extremely heavy snowfall.",Heavy Snowfall,Chavez
+1997-005,1997-02-25,1997,S,Johnson,Disaster in Counties of San Miguel and Guadalupe for snowstorms.,Winter Storm,San Miguel
+1997-005,1997-02-25,1997,S,Johnson,Disaster in Counties of San Miguel and Guadalupe for snowstorms.,Winter Storm,Guadalupe
+1997-003,1997-01-17,1997,S,Johnson,Emergency for Mora and Santa Fe County as a result of winter storms.,Winter Storm,Mora
+1997-003,1997-01-17,1997,S,Johnson,Emergency for Mora and Santa Fe County as a result of winter storms.,Winter Storm,Santa Fe
+1997-007,1997-04-28,1997,S,Johnson,Disaster in Mora County as a result of winter storms.,Winter Storm,Mora
+1998-029,1998-07-28,1998,S,Johnson,Disaster in the County of Socorro resulting in flash flood conditions.,Flash Flooding,Socorro
+1998-030,1998-07-28,1998,S,Johnson,Disaster in the County of Rio Arriba resulting in flash flood conditions.,Flash Flooding,Rio Arriba
+1998-031,1998-07-28,1998,S,Johnson,Disaster in the County of Taos resulting in flash flood conditions.,Flash Flooding,Taos
+1998-032,1998-08-17,1998,S,Johnson,Disaster in the County of Mora resulting in flash flood conditions.,Flash Flooding,Mora
+1998-034,1998-08-25,1998,S,Johnson,Disaster in the County of Hidalgo resulting in flash flood conditions.,Flash Flooding,Hidalgo
+1998-040,1998-09-30,1998,S,Johnson,Disaster in the Reserve area of Catron County in resulted in flash flooding.,Flash Flooding,Catron
+1998-004,1998-01-08,1998,S,Johnson,Disaster in City of Belen as a result of flooding.,Flooding,Valencia
+1998-038,1998-09-23,1998,S,Johnson,Disaster in the County of Mora in resulting in flooding.,Flooding,Mora
+1998-039,1998-09-23,1998,S,Johnson,"Disaster in the County Rio Arriba, resulting in flooding.",Flooding,Rio Arriba
+1998-042,1998-10-19,1998,S,Johnson,Disaster in the many areas of Rio Arriba County in resulting in flooding.,Flooding,Rio Arriba
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Chaves
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,DeBaca
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Eddy
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Guadalupe
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Lincoln
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Mora
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Quay
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Roosevelt
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Torrance
+1998-002,1998-01-05,1998,S,Johnson,"Emergency for portions of New Mexico as a result of heavy snowfall and icy roads, and significant snow drifting.",Heavy Snowfall,Union
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,Guadalupe
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,Socorro
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,Quay
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,Santa Fe
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,San Miguel
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,Mora
+1998-003,1998-01-07,1998,S,Johnson,"Disaster in Guadalupe, Socorro, Quay, Santa Fe, San Miguel, Mora and Torrance as a result in extremely heavy snowfall.",Heavy Snowfall,Torrance
+1998-012,1998-02-26,1998,S,Johnson,"Disaster on portions of eastern and southern New Mexico as resulting of heavy snowfall, low temperatures and high winds.",Heavy Snowfall,Statewide
+1998-021,1998-06-22,1998,S,Johnson,Emergency in Colfax County and the Village of Angel Fire due to major wildfire development.,Wildfire,Colfax
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Chaves
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,DeBaca
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Eddy
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Guadalupe
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Lincoln
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Mora
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Quay
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Roosevelt
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Torrance
+DR-1202,1998-01-29,1998,F,FEMA,New Mexico Severe Winter Storms,Major Disaster,Union
+FSA-2213,1998-06-26,1998,F,FEMA,New Mexico Osha Canyon Complex,Fire Suppression,There are no declared areas for this disaster.
+EM-3128,1998-07-02,1998,F,FEMA,New Mexico Extreme Fire Hazard,Emergency Declaration,There are no declared areas for this disaster.
+1999-015,1999-05-05,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Taos, Colfax, Mora, San Miguel and Chaves.",Flooding,Rio Arriba
+1999-015,1999-05-05,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Taos, Colfax, Mora, San Miguel and Chaves.",Flooding,Taos
+1999-015,1999-05-05,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Taos, Colfax, Mora, San Miguel and Chaves.",Flooding,Colfax
+1999-015,1999-05-05,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Taos, Colfax, Mora, San Miguel and Chaves.",Flooding,Mora
+1999-015,1999-05-05,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Taos, Colfax, Mora, San Miguel and Chaves.",Flooding,San Miguel
+1999-015,1999-05-05,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Taos, Colfax, Mora, San Miguel and Chaves.",Flooding,Chavez
+1999-029,1999-08-11,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Sandoval, Luna, Dona Ana and Sierra.",Flooding,Rio Arriba
+1999-029,1999-08-11,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Sandoval, Luna, Dona Ana and Sierra.",Flooding,Sandoval
+1999-029,1999-08-11,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Sandoval, Luna, Dona Ana and Sierra.",Flooding,Luna
+1999-029,1999-08-11,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Sandoval, Luna, Dona Ana and Sierra.",Flooding,Doña Ana
+1999-029,1999-08-11,1999,S,Johnson,"Disaster and disbursement of Disaster Relief funds due to flooding to all eligible applicants in the State including , but not limited to the counties of Rio Arriba, Sandoval, Luna, Dona Ana and Sierra.",Flooding,Sierra
+1999-031,1999-09-01,1999,S,Johnson,Disaster and release of Disaster Relief Funds to initiate repairs and meet restoration requirements due to flood damage of the Ralston Ditch in San Juan County.,Flooding,San Juan
+1999-011,1999-03-30,1999,S,Johnson,Disaster and release of Disaster Relief Funds for emergency snow removal in San Miguel County.,Heavy Snowfall,San Miguel
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Doña Ana
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Luna
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Mora
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Rio Arriba
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,San Juan
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Sandoval
+DR-1301,1999-09-22,1999,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Sierra
+2000-047,2000-09-11,2000,S,Johnson,Disaster in Grant County due to flooding and directing the Office of Emergency Management to provide emergency assistance at the discretion of the Governor's Authorized Representative.,Flooding,Grant
+2000-054,2000-10-30,2000,S,Johnson,Disaster in Lincoln County due to flooding and directing the Office of Emergency Management to provide emergency assistance at the discretion of the Governor's Authorized Representative.,Flooding,Lincoln
+2000-056,2000-12-08,2000,S,Johnson,Disaster in San Miguel County due to flooding and directing the Office of Emergency Management to provide emergency assistance at the discretion of the Governor's Authorized Representative.,Flooding,San Miguel
+2000-016,2000-05-15,2000,S,Johnson,Disaster and release of Disaster Relief Funds to assist users of the Vado de Juan Paiz Acequia in Guadalupe County due to heavy damage to the acequia water flow caused by a rock slide.,Rock Slide,Guadalupe
+2000-010,2000-05-08,2000,S,Johnson,Emergency and directing the Office of Emergency Management to request Federal aid due to forest fires in Los Alamos and Lincoln Counties.,Wildfire,Los Alamos
+2000-010,2000-05-08,2000,S,Johnson,Emergency and directing the Office of Emergency Management to request Federal aid due to forest fires in Los Alamos and Lincoln Counties.,Wildfire,Lincoln
+2000-038,2000-07-05,2000,S,Johnson,Disaster in Otero County and directing the Office of Emergency Management to provide emergency assistance at the discretion of the Governor's Authorized Representative.,Wildfire,Otero
+2000-039,2000-07-05,2000,S,Johnson,Disaster in Luna County and directing the Office of Emergency Management to provide emergency assistance at the discretion of the Governor's Authorized Representative.,Wildfire,Luna
+2000-043,2000-07-17,2000,S,Johnson,Disaster in Rio Arriba County and directing the Office of Emergency Management to provide emergency assistance at the discretion of the Governor's Authorized Representative.,Wildfire,Rio Arriba
+FSA-2295,2000-04-20,2000,F,FEMA,New Mexico Rio Grande Fire Complex,Fire Suppression,Socorro
+FSA-2295,2000-04-20,2000,F,FEMA,New Mexico Rio Grande Fire Complex,Fire Suppression,Valencia
+FSA-2296,2000-05-08,2000,F,FEMA,New Mexico Cree Fire,Fire Suppression,Lincoln
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Bernalillo
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Catron
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Chaves
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Cibola
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Colfax
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Curry
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,DeBaca
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Doña Ana
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Doña Ana
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Eddy
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Grant
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Guadalupe
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Harding
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Hidalgo
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Lea
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Lincoln
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Los Alamos
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Luna
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,McKinley
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Mora
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Otero
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Quay
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Rio Arriba
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Roosevelt
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,San Juan
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,San Miguel
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Sandoval
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Santa Fe
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Sierra
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Socorro
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Taos
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Torrance
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Union
+EM-3154,2000-05-10,2000,F,FEMA,New Mexico New Mexico Fire,Emergency Declaration,Valencia
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Bernalillo
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Chaves
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Cibola
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,DeBaca
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Doña Ana
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Doña Ana
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Eddy
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Guadalupe
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Lincoln
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Los Alamos
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,McKinley
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Mora
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Otero
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Rio Arriba
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,San Juan
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,San Miguel
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Sandoval
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Santa Fe
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Sierra
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Socorro
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Taos
+DR-1329,2000-05-13,2000,F,FEMA,New Mexico New Mexico Wildfire,Major Disaster,Torrance
+FSA-2297,2000-05-14,2000,F,FEMA,New Mexico Scott-Able Fire,Fire Suppression,Otero
+FSA-2304,2000-05-30,2000,F,FEMA,New Mexico Viveash Fire,Fire Suppression,San Miguel
+FSA-2310,2000-06-15,2000,F,FEMA,New Mexico La Cueva Fire,Fire Suppression,Mora
+FSA-2364,2001-06-03,2001,F,FEMA,New Mexico Trap and Skeet Fire,Fire Suppression,Lincoln
+FSA-2364,2001-06-03,2001,F,FEMA,New Mexico Trap and Skeet Fire,Fire Suppression,Otero
+FSA-2398,2002-03-23,2002,F,FEMA,New Mexico Kokopelli Fire Complex,Fire Suppression,Lincoln
+FSA-2402,2002-05-01,2002,F,FEMA,New Mexico Penasco Fire,Fire Suppression,Otero
+FSA-2404,2002-05-07,2002,F,FEMA,New Mexico Dalton Fire,Fire Suppression,San Miguel
+FSA-2408,2002-05-23,2002,F,FEMA,New Mexico Borrego Fire,Fire Suppression,Rio Arriba
+FSA-2408,2002-05-23,2002,F,FEMA,New Mexico Borrego Fire,Fire Suppression,Santa Fe
+FSA-2415,2002-06-04,2002,F,FEMA,New Mexico Cerro Pelado Fire,Fire Suppression,Mora
+FSA-2414,2002-06-04,2002,F,FEMA,New Mexico Turkey Fire,Fire Suppression,Colfax
+FSA-2416,2002-06-06,2002,F,FEMA,New Mexico Ponil Fire,Fire Suppression,Colfax
+FSA-2424,2002-06-13,2002,F,FEMA,New Mexico Roybal Fire Complex,Fire Suppression,San Miguel
+FSA-2459,2002-08-26,2002,F,FEMA,New Mexico Lakes Fire Complex,Fire Suppression,Sandoval
+2003-045,2003-10-21,2003,S,Richardson,"Disaster in San Miguel County, Rio Arriba County, and the City of Elephant Butte in Sierra County.",Flash Flooding,San Miguel
+2003-045,2003-10-21,2003,S,Richardson,"Disaster in San Miguel County, Rio Arriba County, and the City of Elephant Butte in Sierra County.",Flash Flooding,Rio Arriba
+2003-045,2003-10-21,2003,S,Richardson,"Disaster in San Miguel County, Rio Arriba County, and the City of Elephant Butte in Sierra County.",Flash Flooding,Sierra
+2003-046,2003-10-27,2003,S,Richardson,Disaster in Santa Fe County.,Flash Flooding,Santa Fe
+2003-023,2003-06-24,2003,S,Richardson,Emergency Due to the Bosque Fires in Bernalillo County.,Wildfire - Bosque Fires,Bernalillo
+2003-028,2003-07-07,2003,S,Richardson,Emergency in Taos County; Providing Disaster Assitance Program Funds to the Department of Public Safety.,Wildfire - Encebado Fire,Taos
+FM-2467,2003-05-10,2003,F,FEMA,New Mexico Walker Fire,Fire Management Assistance,There are no declared areas for this disaster.
+2004-015,2004-04-05,2004,S,Richardson,Disaster Due to Flooding Throughout New Mexico.,Flooding,Statewide
+2004-036,2004-07-01,2004,S,Richardson,Disaster for Dona Ana County.,Flooding,Doña Ana
+2004-064,2004-12-06,2004,S,Richardson,Disaster for the La Joya Acequia in Socorro County.,Flooding,Socorro
+2004-057,2004-10-15,2004,S,Richardson,Disaster in the Counties of Chaves and Socorro.,Flooding,Chaves
+2004-057,2004-10-15,2004,S,Richardson,Disaster in the Counties of Chaves and Socorro.,Flooding,Socorro
+2004-038,2004-07-09,2004,S,Richardson,Disaster for Severe Weather in Colfax County.,Severe Weather,Colfax
+2004-016,2004-04-06,2004,S,Richardson,Disaster Due to Severe Weather Conditions.,Severe Weather,Statewide
+2004-018,2004-04-09,2004,S,Richardson,Disaster in Bernalillo County Due to Severe Weather Conditions.,Severe Weather,Bernalillo
+2004-031,2004-05-28,2004,S,Richardson,Disaster Due to Severe Weather Conditions (Supersedes EO-04-008).,Severe Weather,Statewide
+2004-029,2004-05-24,2004,S,Richardson,Emergency for Lincoln County.,Wildfire - Peppin Fire,Lincoln
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Bernalillo
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Guadalupe
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Santa Fe
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,San Miguel
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Sandoval
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Torrance
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Quay
+2004-008,2004-02-24,2004,S,Richardson,"Disaster for the severe winter storm event in Bernalillo, Guadalupe, Santa Fe, San Miguel, Sandoval, Mora, Torrance, and Quay counties and making Disaster Assistance Program funds available to eligible applicants.",Winter Storm,Mora
+DR-1514,2004-04-29,2004,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Bernalillo
+DR-1514,2004-04-29,2004,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Mora
+DR-1514,2004-04-29,2004,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,San Miguel
+DR-1514,2004-04-29,2004,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Eddy
+FM-2522,2004-06-18,2004,F,FEMA,New Mexico Bernardo Fire,Fire Management Assistance,Socorro
+2005-058,2005-12-06,2005,S,Richardson,"Disaster in the counties of Guadalupe, Rio Arriba, Cibola, Sierra, San Miguel, and Socorro for flash flooding.",Flash Flooding,Guadalupe
+2005-058,2005-12-06,2005,S,Richardson,"Disaster in the counties of Guadalupe, Rio Arriba, Cibola, Sierra, San Miguel, and Socorro for flash flooding.",Flash Flooding,Rio Arriba
+2005-058,2005-12-06,2005,S,Richardson,"Disaster in the counties of Guadalupe, Rio Arriba, Cibola, Sierra, San Miguel, and Socorro for flash flooding.",Flash Flooding,Cibola
+2005-058,2005-12-06,2005,S,Richardson,"Disaster in the counties of Guadalupe, Rio Arriba, Cibola, Sierra, San Miguel, and Socorro for flash flooding.",Flash Flooding,Sierra
+2005-058,2005-12-06,2005,S,Richardson,"Disaster in the counties of Guadalupe, Rio Arriba, Cibola, Sierra, San Miguel, and Socorro for flash flooding.",Flash Flooding,San Miguel
+2005-058,2005-12-06,2005,S,Richardson,"Disaster in the counties of Guadalupe, Rio Arriba, Cibola, Sierra, San Miguel, and Socorro for flash flooding.",Flash Flooding,Socorro
+2005-008,2005-02-17,2005,S,Richardson,"Disaster in the Counties of Grant, Hidalgo, and Catron.",Flooding,Grant
+2005-008,2005-02-17,2005,S,Richardson,"Disaster in the Counties of Grant, Hidalgo, and Catron.",Flooding,Hidalgo
+2005-008,2005-02-17,2005,S,Richardson,"Disaster in the Counties of Grant, Hidalgo, and Catron.",Flooding,Catron
+2005-025,2005-04-25,2005,S,Richardson,Emergency for the State of New Mexico Due to Flooding Concerns Associated with Snowmelt and Runoff.,Flooding,Statewide
+2005-043,2005-09-04,2005,S,Richardson,Emergency Due to Effects of Hurricane Katrina and In Support of Relief Efforts.,Hurricane Katrina,Statewide
+2005-012,2005-03-07,2005,S,Richardson,Disaster in Taos County Due to Severe Weather,Severe Weather,Taos
+2005-016,2005-03-15,2005,S,Richardson,Northern New Mexico Counties Due to Severe Weather.,Severe Weather,Statewide
+2005-026,2005-04-26,2005,S,Richardson,"Disaster in Harding, Union, Mora and McKinley Counties Due to Severe Weather.",Severe Weather,Harding
+2005-026,2005-04-26,2005,S,Richardson,"Disaster in Harding, Union, Mora and McKinley Counties Due to Severe Weather.",Severe Weather,Mora
+2005-026,2005-04-26,2005,S,Richardson,"Disaster in Harding, Union, Mora and McKinley Counties Due to Severe Weather.",Severe Weather,McKinley
+2005-026,2005-04-26,2005,S,Richardson,"Disaster in Harding, Union, Mora and McKinley Counties Due to Severe Weather.",Severe Weather,Union
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Bernalillo
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Catron
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Chaves
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Cibola
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Colfax
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Curry
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,DeBaca
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Doña Ana
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Eddy
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Grant
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Guadalupe
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Harding
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Hidalgo
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Lea
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Lincoln
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Los Alamos
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Luna
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,McKinley
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Mora
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Otero
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Quay
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Rio Arriba
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Roosevelt
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Sandoval
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Sierra
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Socorro
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Taos
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Torrance
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Union
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Valencia
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,San Juan
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,San Miguel
+EM-3229,2005-09-07,2005,F,FEMA,New Mexico Hurricane Katrina Evacuation,Emergency Declaration,Santa Fe
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Bernalillo
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Harding
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Quay
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Rio Arriba
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Sandoval
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,San Juan
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Sierra
+2006-043,2006-07-24,2006,S,Richardson,"Disaster in the Counties of Bernalillo, Harding, Quay, Rio Arriba, Sandoval, San Juan, Sierra and Socorro for Flash Flooding",Flash Flooding,Socorro
+2006-033,2006-06-26,2006,S,Richardson,Disaster In The County Of Otero And City Of Alamogordo For Flood Damage Resulting From Severe Weather.,Flooding,Otero
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Doña Ana
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Grant
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Hidalgo
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,San Miguel
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Valencia
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Luna
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Otero
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Cibola
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Harding
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Rio Arriba
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Sandoval
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Sierra
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Socorro
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Taos
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Guadalupe
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Lincoln
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Mora
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,McKinley
+2006-045,2006-08-02,2006,S,Richardson,"Disaster Flood Damage Resulting from Severe Weather. Dona Ana, Grant, Hidalgo, San Miguel, Valencia, Luna, Otero, Cibola, Harding, Rio Arriba, Sandoval, Sierra, Socorro, Taos, Guadalupe, Lincoln, Mora, Mckinley and Torrance Counties.",Flooding,Torrance
+2006-009,2006-03-03,2006,S,Richardson,Emergency Throughout New Mexico Due to Severe Fire Conditions,Severe Fire Conditions,Statewide
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Colfax
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Union
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Mora
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Harding
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Quay
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Guadalue
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,San Miguel
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Santa Fe
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Los Alamos
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Taos
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Sandoval
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Bernalillo
+2006-070,2006-12-30,2006,S,Richardson,"Disaster in the Counties of Colfax, Union, Mora, Harding, Quay, Guadalue, San Miguel, Santa Fe, Los Alamos, Taos, Sandoval, Bernalillo and Torrance due to the effects of a severe winter storm.",Winter Storm,Torrance
+FM-2600,2006-01-02,2006,F,FEMA,New Mexico Southeast New Mexico Fire,Fire Management Assistance,Eddy
+FM-2600,2006-01-02,2006,F,FEMA,New Mexico Southeast New Mexico Fire,Fire Management Assistance,Lea
+FM-2631,2006-03-01,2006,F,FEMA,New Mexico Casa Fire,Fire Management Assistance,Colfax
+DR-1659,2006-08-30,2006,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Doña Ana
+DR-1659,2006-08-30,2006,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Otero
+2007-046,2007-09-11,2007,S,Richardson,Disaster in the Counties of Rio Arriba and Taos Due to the Effects of Flash Flooding.,Flash Flooding,Rio Arriba
+2007-046,2007-09-11,2007,S,Richardson,Disaster in the Counties of Rio Arriba and Taos Due to the Effects of Flash Flooding.,Flash Flooding,Taos
+2007-021,2007-04-24,2007,S,Richardson,Disaster for the Farmers Mutual Ditch in San Juan County Due to a Landslide.,Landslide,San Juan
+2007-013,2007-03-24,2007,S,Richardson,"Disaster in the Counties of Curry, Quay, and Roosevelt Due to the Effects of a Severe Storm.",Severe Weather,Curry
+2007-013,2007-03-24,2007,S,Richardson,"Disaster in the Counties of Curry, Quay, and Roosevelt Due to the Effects of a Severe Storm.",Severe Weather,Quay
+2007-013,2007-03-24,2007,S,Richardson,"Disaster in the Counties of Curry, Quay, and Roosevelt Due to the Effects of a Severe Storm.",Severe Weather,Roosevelt
+FM-2682,2007-02-24,2007,F,FEMA,New Mexico Belen Fire,Fire Management Assistance,Valencia
+DR-1690,2007-04-02,2007,F,FEMA,New Mexico Severe Storms and Tornadoes,Major Disaster,Quay
+DR-1690,2007-04-02,2007,F,FEMA,New Mexico Severe Storms and Tornadoes,Major Disaster,Curry
+FM-2741,2007-11-21,2007,F,FEMA,New Mexico Ojo Peak Fire,Fire Management Assistance,Torrence
+2008-048,2008-10-20,2008,S,Richardson,Disaster In Mora County Due To Flash Flooding,Flash Flooding,Mora
+2008-049,2008-10-20,2008,S,Richardson,Disaster In Rio Arriba County Due To Flash Flooding,Flash Flooding,Rio Arriba
+2008-050,2008-10-20,2008,S,Richardson,Disaster In Colfax County Due To Flash Flooding,Flash Flooding,Colfax
+2008-051,2008-10-20,2008,S,Richardson,Disaster In Sierra County Due To Flash Flooding,Flash Flooding,Sierra
+2008-042,2008-07-28,2008,S,Richardson,Disaster In Lincoln County Due To Flooding,Flooding,Lincoln
+2008-042a,2008-08-04,2008,S,Richardson,Disaster In Lincoln And Otero Counties Due To Flooding,Flooding,Lincoln
+2008-042a,2008-08-04,2008,S,Richardson,Disaster In Lincoln And Otero Counties Due To Flooding,Flooding,Otero
+2008-033,2008-06-25,2008,S,Richardson,Disaster In Torrance County Due To The Big Springs Fire,Wildfire - Big Springs,Torrance
+2008-036,2008-07-11,2008,S,Richardson,Emergency Due To The Effects Of California Wildfires And In Support Of Relief Efforts,Wildfire - California Wildfires,Statewide
+2008-018,2008-05-02,2008,S,Richardson,Disaster in Torrance County Due to the Trigo Fire.,Wildfire - Trigo Fire,Torrance
+2008-005a,2008-02-07,2008,S,Richardson,Disaster in Rio Arriba and Taos Counties Due to a Snowstorm.,Winter Storm,Rio Arriba
+2008-005a,2008-02-07,2008,S,Richardson,Disaster in Rio Arriba and Taos Counties Due to a Snowstorm.,Winter Storm,Taos
+FM-2762,2008-04-21,2008,F,FEMA,New Mexico Trigo Fire,Fire Management Assistance,Torrence
+FM-2777,2008-06-25,2008,F,FEMA,New Mexico Big Springs Fire,Fire Management Assistance,Torrence
+DR-1783,2008-08-14,2008,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Otero
+DR-1783,2008-08-14,2008,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Lincoln
+2009-001,2009-01-07,2009,S,Richardson,Disaster in the Pueblo of Taos Due to Significant Snow Fall,Winter Storm,Taos
+2009-048,2009-12-09,2009,S,Richardson,Disaster in the County of Mora and County of Otero Due to the Effects of a Winter Storm,Winter Storm,Mora
+2009-048,2009-12-09,2009,S,Richardson,Disaster in the County of Mora and County of Otero Due to the Effects of a Winter Storm,Winter Storm,Otero
+FM-2818,2009-05-07,2009,F,FEMA,New Mexico Buckwood Fire,Fire Management Assistance,Otero
+2010-025,2010-06-30,2010,S,Richardson,Disaster In San Miguel County Due To Flash Flooding,Flash Flooding,San Miguel
+2010-034,2010-08-13,2010,S,Richardson,"Disaster In Mckinley County, The City Of Farmington, The Pueblo Of Acoma, And The Navajo Nation Due To Excessive Rainfall And Flash Flooding",Flash Flooding,McKinley
+2010-035,2010-08-13,2010,S,Richardson,Disaster In Mora County Due To Excessive Rainfall And Flash Flooding,Flash Flooding,Mora
+2010-036,2010-08-13,2010,S,Richardson,Disaster In Socorro County Due To Excessive Rainfall And Flash Flooding,Flash Flooding,Socorro
+2010-039,2010-09-22,2010,S,Richardson,Disaster In Harding County Due To Flash Flooding,Flash Flooding,Harding
+2010-040,2010-09-22,2010,S,Richardson,Disaster In Rio Arriba County Due To Flash Flooding,Flash Flooding,Rio Arriba
+2010-042,2010-10-08,2010,S,Richardson,"Disaster In Kewa Pueblo Due To Severe Storms, Hail, And Flash Flooding",Flash Flooding,Sandoval
+2010-051,2010-12-21,2010,S,Richardson,Disaster in Harding County due to flash flooding,Flash Flooding,Harding
+2010-045,2010-10-26,2010,S,Richardson,Disaster In The City Of Rio Rancho Due To A Severe Storm And Flash Flooding,Flooding,Sandoval
+2010-005,2010-02-12,2010,S,Richardson,"Disaster In Cibola, Mckinley, Rio Arriba, Sandoval, And San Juan Counties And The Navajo Nation Due To The cumulative Effects Of Recent Snowstorms",Winter Storm,Cibola
+2010-005,2010-02-12,2010,S,Richardson,"Disaster In Cibola, Mckinley, Rio Arriba, Sandoval, And San Juan Counties And The Navajo Nation Due To The cumulative Effects Of Recent Snowstorms",Winter Storm,McKinley
+2010-005,2010-02-12,2010,S,Richardson,"Disaster In Cibola, Mckinley, Rio Arriba, Sandoval, And San Juan Counties And The Navajo Nation Due To The cumulative Effects Of Recent Snowstorms",Winter Storm,Rio Arriba
+2010-005,2010-02-12,2010,S,Richardson,"Disaster In Cibola, Mckinley, Rio Arriba, Sandoval, And San Juan Counties And The Navajo Nation Due To The cumulative Effects Of Recent Snowstorms",Winter Storm,Sandoval
+2010-005,2010-02-12,2010,S,Richardson,"Disaster In Cibola, Mckinley, Rio Arriba, Sandoval, And San Juan Counties And The Navajo Nation Due To The cumulative Effects Of Recent Snowstorms",Winter Storm,San Juan
+DR-1936,2010-09-13,2010,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Cibola
+DR-1936,2010-09-13,2010,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,McKinley
+DR-1936,2010-09-13,2010,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Mora
+DR-1936,2010-09-13,2010,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,San Juan
+DR-1936,2010-09-13,2010,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Socorro
+2011-011,2011-02-03,2011,S,Martinez,Emergency statewide due to extreme cold weather,Extreme Cold Weather,Statewide
+2011-012,2011-02-03,2011,S,Martinez,Emergency statewide due to extreme cold weather,Extreme Cold Weather,Statewide
+2011-075,2011-09-01,2011,S,Martinez,Disaster in Sandoval County due to flooding.,Flooding Caused by Las Conchas Fire,Sandoval
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Catron
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Colfax
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Lincoln
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Los Alamos
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Mora
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Rio Arriba
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Sandoval
+2011-063,2011-07-08,2011,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,San Miguel
+2011-053,2011-07-07,2011,S,Martinez,"Emergency in the counties of Los Alamos, Sandoval, Rio Arriba and Santa Clara Pueblo due to a severe wildfire",Wildfire,Los Alamos
+2011-053,2011-07-07,2011,S,Martinez,"Emergency in the counties of Los Alamos, Sandoval, Rio Arriba and Santa Clara Pueblo due to a severe wildfire",Wildfire,Sandoval
+2011-053,2011-07-07,2011,S,Martinez,"Emergency in the counties of Los Alamos, Sandoval, Rio Arriba and Santa Clara Pueblo due to a severe wildfire",Wildfire,Rio Arriba
+2011-061,2011-07-07,2011,S,Martinez,Emergency in Lincoln County due to a severe wildfire,Wildfire - Donaldson Fire,Lincoln
+2011-047,2011-06-17,2011,S,Martinez,"Emergency in Colfax, Mora, and San Miguel Counties due to a severe wildfire",Wildfire - Track Fire,Colfax
+2011-047,2011-06-17,2011,S,Martinez,"Emergency in Colfax, Mora, and San Miguel Counties due to a severe wildfire",Wildfire - Track Fire,Mora
+2011-047,2011-06-17,2011,S,Martinez,"Emergency in Colfax, Mora, and San Miguel Counties due to a severe wildfire",Wildfire - Track Fire,San Miguel
+2011-040,2011-06-10,2011,S,Martinez,Wildfire - Wallow Fire,Wildfire - Wallow Fire,Catron
+2011-014,2011-02-09,2011,S,Martinez,Disaster statewide due to severe winter storms and extreme cold,Winter Storm,Statewide
+FM-2866,2011-03-08,2011,F,FEMA,New Mexico Quail Ridge Fire,Fire Management Assistance,Grant
+DR-1962,2011-03-24,2011,F,FEMA,New Mexico Severe Winter Storm and Extreme Cold Temperatures,Major Disaster,Lincoln
+DR-1962,2011-03-24,2011,F,FEMA,New Mexico Severe Winter Storm and Extreme Cold Temperatures,Major Disaster,Otero
+DR-1962,2011-03-24,2011,F,FEMA,New Mexico Severe Winter Storm and Extreme Cold Temperatures,Major Disaster,Rio Arriba
+DR-1962,2011-03-24,2011,F,FEMA,New Mexico Severe Winter Storm and Extreme Cold Temperatures,Major Disaster,Sierra
+DR-1962,2011-03-24,2011,F,FEMA,New Mexico Severe Winter Storm and Extreme Cold Temperatures,Major Disaster,Socorro
+DR-1962,2011-03-24,2011,F,FEMA,New Mexico Severe Winter Storm and Extreme Cold Temperatures,Major Disaster,Taos
+FM-2880,2011-04-03,2011,F,FEMA,New Mexico White Fire,Fire Management Assistance,Bernalillo
+FM-2880,2011-04-03,2011,F,FEMA,New Mexico White Fire,Fire Management Assistance,Lincoln
+FM-2897,2011-04-17,2011,F,FEMA,New Mexico Tire Fire,Fire Management Assistance,Curry
+FM-2897,2011-04-17,2011,F,FEMA,New Mexico Tire Fire,Fire Management Assistance,Roosevelt
+FM-2917,2011-06-10,2011,F,FEMA,New Mexico Wallow Fire,Fire Management Assistance,Catron
+FM-2918,2011-06-12,2011,F,FEMA,New Mexico Track Fire,Fire Management Assistance,Colfax
+FM-2933,2011-06-26,2011,F,FEMA,New Mexico Las Conchas Fire,Fire Management Assistance,Los Alamos
+FM-2933,2011-06-26,2011,F,FEMA,New Mexico Las Conchas Fire,Fire Management Assistance,Rio Arriba
+FM-2933,2011-06-26,2011,F,FEMA,New Mexico Las Conchas Fire,Fire Management Assistance,Sandoval
+FM-2934,2011-06-29,2011,F,FEMA,New Mexico Little Lewis Fire,Fire Management Assistance,Otero
+FM-2935,2011-06-30,2011,F,FEMA,New Mexico Donaldson Fire,Fire Management Assistance,Lincoln
+DR-4047,2011-11-23,2011,F,FEMA,New Mexico Flooding,Major Disaster,Cibola
+DR-4047,2011-11-23,2011,F,FEMA,New Mexico Flooding,Major Disaster,Los Alamos
+DR-4047,2011-11-23,2011,F,FEMA,New Mexico Flooding,Major Disaster,Sandoval
+2012-018,2012-06-19,2012,S,Martinez,Flooding Caused by Little Bear Fire,Flooding Caused by Little Bear Fire,Lincoln
+2012-018,2012-06-19,2012,S,Martinez,Emergency Throughout New Mexico Due to Enhanced Flood Potential Caused by Severe Wildfires,Flooding Caused by Whitewater Baldy Fire,Catron
+2012-018,2012-06-19,2012,S,Martinez,Flooding Caused by Whitewater Baldy Fire,Flooding Caused by Whitewater Baldy Fire,Grant
+2012-038,2012-11-09,2012,S,Martinez,Emergency due to the effects of Hurrican Sandy and in support of relief efforts.,Hurricane Sandy,Statewide
+2012-036,2012-09-26,2012,S,Martinez,Emergency in San Juan County due to landslide.,Landslide,San Juan
+2012-015,2012-06-12,2012,S,Martinez,Emergency in Lincoln County due to the Little Bear Wildfire,Wildfire - Little Bear Fire,Lincoln
+2012-014,2012-06-08,2012,S,Martinez,Emergency in Catron County Due to the Whitewater-Baldy Wildfire Complex,Wildfire - Whitewater Baldy Fire,Catron
+FM-2978,2012-05-26,2012,F,FEMA,New Mexico Whitewater-Baldy Fire Complex,Fire Management Assistance,Catron
+FM-2978,2012-05-26,2012,F,FEMA,New Mexico Whitewater-Baldy Fire Complex,Fire Management Assistance,Grant
+FM-2979,2012-06-09,2012,F,FEMA,New Mexico Little Bear Fire,Fire Management Assistance,Lincoln
+CR 4901/FM-2981,2012-06-18,2012,F,FEMA,New Mexico Blanco (CR 4901) Fire (FM-2981),Fire Management Assistance,San Juan
+FM-2982,2012-06-20,2012,F,FEMA,New Mexico Romero Fire,Fire Management Assistance,Sandoval
+DR-4079,2012-08-24,2012,F,FEMA,New Mexico Flooding,Major Disaster,Lincoln
+DR-4079,2012-08-24,2012,F,FEMA,New Mexico Flooding,Major Disaster,Los Alamos
+DR-4079,2012-08-24,2012,F,FEMA,New Mexico Flooding,Major Disaster,Sandoval
+2013-027,2013-07-30,2013,S,Martinez,Emergency throughout New Mexico due to severe storms and flooding,Flooding,Bernalillo
+2013-027,2013-07-30,2013,S,Martinez,Emergency throughout New Mexico due to severe storms and flooding,Flooding,Colfax
+2013-027,2013-07-30,2013,S,Martinez,Emergency throughout New Mexico due to severe storms and flooding,Flooding,Sandoval
+2013-027,2013-07-30,2013,S,Martinez,Emergency throughout New Mexico due to severe storms and flooding,Flooding,Sierra
+2013-027,2013-07-30,2013,S,Martinez,Emergency throughout New Mexico due to severe storms and flooding,Flooding,Socorro
+2013-027,2013-07-30,2013,S,Martinez,Emergency throughout New Mexico due to severe storms and flooding,Flooding,Lugan
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Thompson Ridge Wildfire,Sandoval
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Tres Lagunas Wildfire,San Miguel
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Sierra
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Catron
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Colfax
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Curry
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Grant
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Lincoln
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Los Alamos
+2013-022,2013-06-19,2013,S,Martinez,Emergency throughout New Mexico due to enhanced flood potential caused by severe wildfires,Flooding Caused by Wildfires,Otero
+2013-031,2013-09-13,2013,S,Martinez,Disaster Statewide due to flooding,Flooding Caused by Wildfires,Statewide
+2013-004,2013-02-08,2013,S,Martinez,"Emergency in the Counties of McKinley, San Juan, Cibola, Socorro, and Valencia due to freezing temperatures on the Navajo Nation",Freezing Temperatures,McKinley
+2013-004,2013-02-08,2013,S,Martinez,"Emergency in the Counties of McKinley, San Juan, Cibola, Socorro, and Valencia due to freezing temperatures on the Navajo Nation",Freezing Temperatures,San Juan
+2013-004,2013-02-08,2013,S,Martinez,"Emergency in the Counties of McKinley, San Juan, Cibola, Socorro, and Valencia due to freezing temperatures on the Navajo Nation",Freezing Temperatures,Cibola
+2013-004,2013-02-08,2013,S,Martinez,"Emergency in the Counties of McKinley, San Juan, Cibola, Socorro, and Valencia due to freezing temperatures on the Navajo Nation",Freezing Temperatures,Socorro
+2013-004,2013-02-08,2013,S,Martinez,"Emergency in the Counties of McKinley, San Juan, Cibola, Socorro, and Valencia due to freezing temperatures on the Navajo Nation",Freezing Temperatures,Valencia
+2013-010,2013-06-04,2013,S,Martinez,Emergency in Sandoval County due to Thompson Ridge Wildfire,Wildfire - Thompson Ridge Wildfire,Sandoval
+2013-008,2013-05-31,2013,S,Martinez,Emergency in San Miguel County due to Tres Lagunas Wildfire (Amended),Wildfire - Tres Lagunas Wildfire,San Miguel
+2013-034,2013-12-10,2013,S,Martinez,Emergency throughout New Mexico due to severe winter storms and freezing temperatures.,Winter Storm,Statewide
+FM-5026,2013-06-05,2013,F,FEMA,New Mexico Tres Lagunas Fire,Fire Management Assistance,San Miguel
+DR-4147,2013-09-27,2013,F,FEMA,Santa Clara Pueblo Severe Storms and Flooding,Major Disaster,Santa Clara Pueblo (Indian Reservation)
+DR-4148,2013-09-30,2013,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Bernalillo
+DR-4148,2013-09-30,2013,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Colfax
+DR-4148,2013-09-30,2013,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Luna
+DR-4148,2013-09-30,2013,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Sandoval
+DR-4148,2013-09-30,2013,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Sierra
+DR-4148,2013-09-30,2013,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Socorro
+DR-4151,2013-10-24,2013,F,FEMA,Santa Clara Pueblo Severe Storms and Flooding,Major Disaster,Santa Clara Pueblo (Indian Reservation)
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Catron
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Chaves
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Cibola
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Colfax
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,DeBaca
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Doña Ana
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Eddy
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Guadalupe
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Harding
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Lincoln
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Los Alamos
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,McKinley
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Mora
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Otero
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Rio Arriba
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,San Juan
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,San Miguel
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Sandoval
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Santa Fe
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Sierra
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Socorro
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Taos
+DR-4152,2013-10-29,2013,F,FEMA,"New Mexico Severe Storms, Flooding, and Mudslides",Major Disaster,Torrence
+2014-013,2014-08-06,2014,S,Martinez,Emergency throughout New Mexico due to monsoonal flooding.,Flooding,Statewide
+2014-015,2014-09-17,2014,S,Martinez,"Emergency Colfax, Eddy, Lea, Lincoln, Otero, San Miguel, Santa Fe and Sierra Counties. due to flooding from Hurricane Odile.",Hurricane Odile,Statewide
+DR-4197,2014-10-06,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Guadalupe
+DR-4197,2014-10-06,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Lincoln
+DR-4197,2014-10-06,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Otero
+DR-4197,2014-10-06,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Rio Arriba
+DR-4197,2014-10-06,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,San Miguel
+DR-4197,2014-10-06,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Sandoval
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Colfax
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Eddy
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Lea
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Lincoln
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Otero
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,San Miguel
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Santa Fe
+DR-4199,2014-10-29,2014,F,FEMA,New Mexico Severe Storms and Flooding,Major Disaster,Sierra
+2015-007,2015-05-27,2015,S,Martinez,Emergency throughout New Mexico to Enhanced Flood Potential.,Enhanced Flood Potential,Statewide
+2015-017,2015-09-09,2015,S,Martinez,Emergency throughout New Mexico due to Monsoon Flooding.,Flooding,Statewide
+2015-016,2015-08-10,2015,S,Martinez,Emergency in San Juan County due to Gold King Mine Contaminated Water Release.,Gold King Mine Contaminated Water Release,San Juan
+2015-021,2015-12-27,2015,S,Martinez,Winter Storm,Winter Storm,Statewide
+2016-027,2016-09-01,2016,S,Martinez,Emergency Throughout New Mexico Due To Monsoon Flooding,Flooding,Statewide
+2016-007,2016-06-15,2016,S,Martinez,Emergency In Bernalillo And Torrance Counties Due To Dog Head Wildfire,Wildfire - Dog Head Wildfire,Bernalillo
+2016-007,2016-06-15,2016,S,Martinez,Emergency In Bernalillo And Torrance Counties Due To Dog Head Wildfire,Wildfire - Dog Head Wildfire,Torrance
+2016-021,2016-07-14,2016,S,Martinez,Emergency In Otero County Due To Timberon Wildfire,Wildfire - Timberon Wildfire,Otero
+FM-5127,2016-06-16,2016,F,FEMA,New Mexico Dog Head Fire,Fire Management Assistance,Bernalillo
+FM-5134,2016-07-14,2016,F,FEMA,New Mexico Timberon Fire,Fire Management Assistance,Otero
+FM-5127,2016-06-16,2016,F,FEMA,New Mexico Dog Head Fire,Fire Management Assistance,Torrance
+2017-019,2017-09-06,2017,S,Martinez,Emergency Due To The Effects Of Hurricane Maria And In Support Of Relief Efforts In Puerto Rico,Hurricane Maria,Statewide
+FM-5184,2017-06-15,2017,F,FEMA,New Mexico El Cajete Fire,Fire Management Assistance,There are no declared areas for this disaster.
+DR-4352,2017-12-20,2017,F,FEMA,Pueblo of Acoma Severe Storms and Flooding,Major Disaster,Pueblo of Acoma
+2018-041,2018-08-02,2018,S,Martinez,Disaster In Valencia County Due To Severe Monsoon Flooding,Flooding,Valencia
+2018-042,2018-08-09,2018,S,Martinez,Disaster In The City And County Of Santa Fe Due To Severe Monsoon Flooding,Flooding,Santa Fe
+2018-050,2018-11-02,2018,S,Martinez,Disaster in Luna And Socorro Counties Due To Severe Monsoon Storms And Flooding,Flooding,Luna
+2018-050,2018-11-02,2018,S,Martinez,Disaster in Luna And Socorro Counties Due To Severe Monsoon Storms And Flooding,Flooding,Socorro
+2018-051,2018-11-02,2018,S,Martinez,Disaster In Socorro County Due To Severe Monsoon Storms And Flooding,Flooding,Socorro
+2018-003,2018-01-31,2018,S,Martinez,Emergency Due To The Effects Of Hurricane Irma And In Support Of Relief Efforts In Florida,Hurricane Irma,Statewide
+2018-004,2018-01-31,2018,S,Martinez,Providing Additional Funding For Relief Efforts In Puerto Rico In Response To Hurricane Maria,Hurricane Maria - Puerto Rico,Statewide
+2018-002,2018-01-31,2018,S,Martinez,Emergency Due To The Effects Of The Northern California Wildfires And In Support Of Relief Efforts,Wildfire - Northern California Wildfires,Statewide
+2018-020,2018-06-30,2018,S,Martinez,Emergency For The Mescalero Apache Tribe Of The Mescalero Reservation Due To The Soldier Canyon Wildf,Wildfire - Soldier Canyon Wildfire,Otero
+2018-001,2018-01-31,2018,S,Martinez,Emergency Due To The Effects Of The Southern California Wildfires And In Support Of Relief Efforts,Wildfire - Southern California Wildfires,Statewide
+2018-017,2018-06-05,2018,S,Martinez,Emergency In Colfax County Due To The Ute Park Wildfire,Wildfire - Ute Park Wildfire,Colfax
+FM-5239,2018-07-01,2018,F,FEMA,New Mexico Ute Park Fire,Fire Management Assistance,Colfax
+2019-009,2019-04-22,2019,S,Lujan Grisham,"Disaster Due to Severe Wind Events, Tornadoes, Hail Damage and Electric Power Outages",Severe Wind Events,Statewide
+2019-014,2019-06-17,2019,S,Lujan Grisham,Disaster in Rio Arriba and Sandoval Counties Due to Flooding and Severe Storms,Flooding and Severe Storms,Rio Arriba
+2019-014,2019-06-17,2019,S,Lujan Grisham,Disaster in Rio Arriba and Sandoval Counties Due to Flooding and Severe Storms,Flooding and Severe Storms,Sandovval
+2019-035,2019-10-30,2019,S,Lujan Grisham,"Disaster in Hidalgo, Luna, and Socorro Counties Due to Flooding",Flooding,Hidalgo
+2019-035,2019-10-30,2019,S,Lujan Grisham,"Disaster in Hidalgo, Luna, and Socorro Counties Due to Flooding",Flooding,Luna
+2019-035,2019-10-30,2019,S,Lujan Grisham,"Disaster in Hidalgo, Luna, and Socorro Counties Due to Flooding",Flooding,Socorro
+FM-5240,2019-01-06,2019,F,FEMA,New Mexico Soldier Canyon Fire,Fire Management Assistance,Otero
+FM-5281,2019-03-08,2019,F,FEMA,New Mexico Ironworks Fire,Fire Management Assistance,Valencia
+2019-008,2019-04-22,2019,S,Lujan Grisham,Disaster due to Severe Winter Storms,Severe Winter Storms,Guadalupe
+2019-008,2019-04-22,2019,S,Lujan Grisham,Disaster due to Severe Winter Storms,Severe Winter Storms,Lincoln
+2019-008,2019-04-22,2019,S,Lujan Grisham,Disaster due to Severe Winter Storms,Severe Winter Storms,Los Alamos
+2019-008,2019-04-22,2019,S,Lujan Grisham,Disaster due to Severe Winter Storms,Severe Winter Storms,San Miguel
+2019-008,2019-04-22,2019,S,Lujan Grisham,Disaster due to Severe Winter Storms,Severe Winter Storms,Torrance
+2020-032,2020-03-22,2020,S,Lujan Grisham,Disaster in Roosevelt County Due to Flooding,Flooding,Roosevelt
+2020-033,2020-05-22,2020,S,Lujan Grisham,Disaster in Curry and Eddy Counties Due to Flooding,Flooding,Curry
+2020-033,2020-05-22,2020,S,Lujan Grisham,Disaster in Curry and Eddy Counties Due to Flooding,Flooding,Eddy
+2020-077,2020-11-05,2020,S,Lujan Grisham,Disaster in Village of Williamsburg Due to Flooding,Flooding,Sierra
+2020-078,2020-11-05,2020,S,Lujan Grisham,Disaster in City of Truth or Consequences Due to Flooding,Flooding,Sierra
+2020-079,2020-11-05,2020,S,Lujan Grisham,Disaster in Socorro County Due to Flooding,Flooding,Socorro
+2020-084,2020-12-09,2020,S,Lujan Grisham,Declaring State of Emergency Statewide Due to Drought,Drought,Statewide
+2021-014,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-015,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-016,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-017,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-018,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-019,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-020,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-021,2021-05-05,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-025,2021-06-09,2021,S,Lujan Grisham,Disaster in Chavez County Due to Flooding,Flooding,Chavez
+2021-026,2021-06-09,2021,S,Lujan Grisham,Disaster in Lincoln County Due to Flooding,Flooding,Lincoln
+2021-027,2021-06-14,2021,S,Lujan Grisham,Disaster in City of Roswell Due to Flooding,Flooding,Chavez
+2021-031,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-032,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-033,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-034,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-035,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-036,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-037,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-038,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-039,2021-06-25,2021,S,Lujan Grisham,Declaring Emergency Statewide Due to Wildland Fires,Wildfire,Statewide
+2021-040,2021-07-15,2021,S,Lujan Grisham,Disaster in Valencia County Due to Flooding,Flooding,Valencia
+2021-041,2021-07-15,2021,S,Lujan Grisham,Disaster in Eddy County Due to Flooding,Flooding,Eddy
+2021-042,2021-07-15,2021,S,Lujan Grisham,Disaster in City of Belen Due to Flooding,Flooding,Valencia
+2021-047,2021-08-15,2021,S,Lujan Grisham,Disaster in Dona Ana County Due to Flooding,Flooding,Dona Ana
+2021-050,2021-08-19,2021,S,Lujan Grisham,Disaster in Mora County Due to Flooding,Flooding,Mora
+2021-051,2021-08-24,2021,S,Lujan Grisham,Disaster in Village of Ruidoso Due to Flooding,Flooding,Lincoln
+2021-053,2021-08-30,2021,S,Lujan Grisham,Disaster in Rio Arriba County Due to Flooding,Flooding,Rio Arriba
+2021-056,2021-09-24,2021,S,Lujan Grisham,Disaster in Dona Ana County Due to Flooding,Flooding,Dona Ana
+2021-064,2021-11-17,2021,S,Lujan Grisham,Disaster in Catron County Due to Flooding,Flooding,Catron
+2021-065,2021-11-30,2021,S,Lujan Grisham,Disaster in Socorro County Due to Flooding,Flooding,Socorro
+FM-5386,2021-04-27,2021,F,FEMA,New Mexico Three Rivers Fire,Fire Management Assistance,Lincoln
+2022-001,2022-01-04,2022,S,Lujan Grisham,Disaster in Socorro County Due to Flooding,Flooding,Socorro
+2022-002,2022-01-06,2022,S,Lujan Grisham,Disaster in Rio Arriba County Due to Snow Squall,Snow Squall,Rio Arriba
+2022-003,2022-01-06,2022,S,Lujan Grisham,Disaster in Pueblo of Laguna Due to Flooding,Flooding,Cibola
+2022-014,2022-03-16,2022,S,Lujan Grisham,Disaster in Colfax County Due to Snow Squall,Snow Squall,Colfax
+2022-017,2022-04-22,2022,S,Lujan Grisham,Disaster in San Miguel County Due to Hermit's Peak Fire,Wildfire,San Miguel
+2022-018,2022-04-22,2022,S,Lujan Grisham,Disaster in Valencia County Due to Big Hole Fire,Wildfire,Valencia
+2022-019,2022-04-22,2022,S,Lujan Grisham,Disaster in Colfax County Due to Cooks Peak Fire,Wildfire,Colfax
+2022-020,2022-04-22,2022,S,Lujan Grisham,Disaster in Lincoln County Due to  Fire Event,Wildfire,Lincoln
+2022-021,2022-04-23,2022,S,Lujan Grisham,Disaster in Mora County Due to Cooks and Calfs Fires,Wildfire,Mora
+2022-025,2022-05-03,2022,S,Lujan Grisham,Disaster in Sandoval County Due to Cerro Pelado Fire,Wildfire,Sandoval
+2022-076,2022-06-02,2022,S,Lujan Grisham,Disaster in Mora County Due to Ash and Fire Debris from Cooks and Hermits Peak/Calf Canyon Fires,Enviromental,Mora
+2022-077,2022-06-03,2022,S,Lujan Grisham,Disaster in San Miguel County Due to Ash and Fire Debris from Cooks and Hermits Peak/Calf Canyon Fires,Enviromental,Mora
+2022-087,2022-06-10,2022,S,Lujan Grisham,Disaster in Sierra County Due to Black Fire,Wildfire,Sierra
+2022-106,2022-06-23,2022,S,Lujan Grisham,Disaster in Rio Arriba County Due to Major Leak in Chama Water System,Infrastructure,Rio Arriba
+2022-112,2022-07-29,2022,S,Lujan Grisham,Disaster in the City of Las Vegas Due to Flooding and Lack of Drinking Water,Flooding,San Miguel
+2022-113,2022-07-29,2022,S,Lujan Grisham,Disaster in the City of Las Vegas Due to Flooding and Lack of Drinking Water,Flooding,San Miguel
+2022-114,2022-07-29,2022,S,Lujan Grisham,Disaster in the City of Las Vegas Due to Flooding and Lack of Drinking Water,Flooding,San Miguel
+2022-119,2022-08-17,2022,S,Lujan Grisham,Disaster in Rio Arriba County Due to Flooding,Flooding,Rio Arriba
+2022-124,2022-08-31,2022,S,Lujan Grisham,Disaster in Sandoval County Due to a Water Shortage,Infrastructure,Sandoval
+2022-128,2022-09-08,2022,S,Lujan Grisham,Disaster in Grant County Due to Flooding; Washout of US 180 W,Flooding,Grant
+2022-129,2022-09-12,2022,S,Lujan Grisham,Disaster in Hidalgo County Due to Flooding,Flooding,Hidalgo
+2022-134,2022-09-16,2022,S,Lujan Grisham,Disaster in Catron County Due to Flooding,Flooding,Catron
+2022-143,2022-10-03,2022,S,Lujan Grisham,Disaster in Sierra County Due to Flooding,Flooding,Sierra
+2022-148,2022-10-18,2022,S,Lujan Grisham,Disaster in Mora County Due to Severe Winter Weather,Winter Weather,Mora
+FM-5430,2022-04-11,2022,F,FEMA,New Mexico Big Hole Fire,Fire Management Assistance,Valencia
+FM-5431,2022-04-12,2022,F,FEMA,New Mexico Hermit's Peak Fire,Fire Management Assistance,San Miguel
+FM-5432,2022-04-12,2022,F,FEMA,New Mexico Mcbride Fire,Fire Management Assistance,Lincoln
+FM-5433,2022-04-12,2022,F,FEMA,New Mexico Nogal Canyon Fire,Fire Management Assistance,Lincoln
+FM-5437,2022-04-28,2022,F,FEMA,New Mexico Cook's Peak Fire,Fire Management Assistance,Colfax
+FM-5438,2022-04-30,2022,F,FEMA,New Mexico Calf Canyon Fire,Fire Management Assistance,San Miguel
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,Colfax
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,Mora
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,Sandoval
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,Los Alamos
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,San Miguel
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,Lincoln
+DR-4652,2022-05-04,2022,F,FEMA,"New Mexico Wildfires Flooding, Mudflows and Straight-line Winds",Major Disaster Declaration,Valencia
+2023-018,2023-02-13,2023,S,Lujan Grisham,Disaster in Guadalupe County Due to Fires,Wildfire,Guadalupe
+2023-040,2023-04-10,2023,S,Lujan Grisham,Disaster in Sandoval County Due to Flooding,Flooding,Sandoval
